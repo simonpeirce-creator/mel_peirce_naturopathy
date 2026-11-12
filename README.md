@@ -13,3 +13,15 @@ Five Codex project skills in `.agents/skills`. Open this repository as a Codex w
 Start by reviewing the business profile with Mel. Test the signup path and welcome delivery, then draft one newsletter and companion Instagram post. Use subscriber replies and waitlist interest to decide what paid offer to test. Track baseline subscribers, signups by source and sales when an offer is live.
 
 [Review scenarios](tests.md) give example inputs and expected decisions.
+
+## New Zealand sole trader administration
+
+| Skill | Role |
+|---|---|
+| `nz-sole-trader-tax` | Explain NZ tax treatment, estimate liabilities and prepare accountant questions |
+| `nz-sole-trader-bookkeeping` | Reconcile accounts, follow up invoices and forecast cash |
+| `nz-sole-trader-admin` | Maintain registrations, ACC, insurance, deadlines and first-hire checks |
+| `nz-small-business-online-sales` | Prepare checkout, delivery, cancellations and refunds |
+| `nz-practice-privacy` | Manage records, consent and privacy administration |
+
+Start with `$nz-sole-trader-admin` to establish the calendar and confirmed registrations. Use `$nz-sole-trader-tax` for a specific tax question. The skills link to official NZ sources and leave Mel's actual registrations, dates and liabilities open until confirmed.
