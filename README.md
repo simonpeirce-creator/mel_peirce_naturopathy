@@ -1,6 +1,6 @@
 # Mel Peirce Naturopathy marketing skills
 
-Five Codex project skills in `.agents/skills`. Open this repository as a Codex workspace and invoke a skill by name, for example `$mel-content-planner`. Keep the folders together so each skill can find the shared profile and review reference. These are original Markdown instructions with no runtime dependencies.
+Codex project skills in `.agents/skills`. Open this repository as a Codex workspace and invoke a skill by name, for example `$mel-content-planner`. Keep the folders together so each skill can find the shared profile and review reference. These are original Markdown instructions with no runtime dependencies.
 
 | Skill | Role |
 |---|---|
@@ -25,3 +25,7 @@ Start by reviewing the business profile with Mel. Test the signup path and welco
 | `nz-practice-privacy` | Manage records, consent and privacy administration |
 
 Start with `$nz-sole-trader-admin` to establish the calendar and confirmed registrations. Use `$nz-sole-trader-tax` for a specific tax question. The skills link to official NZ sources and leave Mel's actual registrations, dates and liabilities open until confirmed.
+
+## Start here with Mel
+
+Use `$mel-onboarding` with a prompt such as “I’m new to business and AI. Help me work out what to do about my first webinar. Ask me one question at a time.” It reuses confirmed answers, proposes updates to shared context and helps with the task at hand. Keep private records in their existing systems.
